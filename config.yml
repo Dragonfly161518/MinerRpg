@@ -1,0 +1,32 @@
+Regions:
+- unknown
+
+
+Regen Time:
+  Coal: 10
+  Iron: 10
+  Gold: 10
+  Diamond: 10
+  Redstone: 10
+  Emerald: 10
+  Lapis: 10
+
+# 1-100% 100% is full chance 0% is not chance to get
+Drop Chance:
+  Coal: 60
+  Iron: 60
+  Gold: 60
+  Diamond: 60
+  Redstone: 60
+  Emerald: 60
+  Lapis: 60 
+  
+# Should set over 1 to Strength of Block that break 50 is same obsidian
+Strength:
+  Coal: 50
+  Iron: 50
+  Gold: 50
+  Diamond: 50
+  Redstone: 50
+  Emerald: 50
+  Lapis: 50

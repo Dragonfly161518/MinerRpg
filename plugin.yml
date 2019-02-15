@@ -1,0 +1,9 @@
+main: me.yuuma.plugin.MinerRpg
+author: Porror
+version: 1.0
+name: MinerRpg
+depend: [WorldGuard]
+commands:
+  MinerRpg:
+    description: Plugin Command reload MinerRpg
+    usage: /<command>
